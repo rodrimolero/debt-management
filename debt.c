@@ -1,4 +1,4 @@
-all functions related to operations on the list of students
+//all functions related to operations on the list of students
 
 #include <stdio.h>
 #include <stdlib.h>
