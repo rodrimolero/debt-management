@@ -1,6 +1,4 @@
-//Name: Rodrigo Molero
-//Unumber: 72733446
-//Description: contains read_line function
+//contains read_line function
 
 #include <stdio.h>
 #include <ctype.h>
