@@ -1,6 +1,4 @@
-//Name: Rodrigo Molero
-//Unumber: 72733446
-//Description: contains the main function
+//contains the main function
 
 #include <stdio.h>
 #include "debt.h"
