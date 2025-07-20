@@ -1,6 +1,4 @@
-//Name: Rodrigo Molero
-//Unumber: 72733446
-//Description: header file that contains struct debt declaration and prototypes for the functions in debt.c
+//header file that contains struct debt declaration and prototypes for the functions in debt.c
 
 #ifndef DEBT_H
 #define DEBT_H
