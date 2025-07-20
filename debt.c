@@ -1,6 +1,4 @@
-//Name: Rodrigo Molero
-//Unumber:72733446
-//description: all functions related to operations on the list of students
+all functions related to operations on the list of students
 
 #include <stdio.h>
 #include <stdlib.h>
